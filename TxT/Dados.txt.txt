@@ -1,0 +1,60 @@
+1643	Burning feet		Female
+1691	Burning feet		Male
+1706	Various			Female
+1649	Sleep Deprivation	Female
+1661	Sleep Deprivation	Female
+1629	Sleep Deprivation	Female
+1644	Sleep Deprivation	Female
+1649	Bound with ropes	Female
+1649	Whip			Female
+1905	Burning feet		Female
+1609	Hanging by thumbs	Female
+1661	Sleep Deprivation	Female
+1661	Sleep Deprivation	Female
+1661	Sleep Deprivation	Female
+1649	Sleep Deprivation	Female
+1649	Sleep Deprivation	Female
+1643	Burning feet		Female
+1649	Hanging by thumbs	Male
+1643	Bound with ropes	Female
+1650	Whip			Female
+1617	Sleep Deprivation	Female
+1621	Burning feet		Male
+1621	Hanging by thumbs	Female
+1629	Bound with ropes	Female
+1644	Whip			Female
+1628	Sleep Deprivation	Female
+1627	Burning feet		Female
+1629	Hanging by thumbs	Female
+1629	Whip			Female
+1629	Bound with ropes	Female
+1629	Sleep Deprivation	Female
+1629	Burning feet		Female
+1629	Hanging by thumbs	Female
+1629	Whip			Female
+1629	Bound with ropes	Female
+1629	Sleep Deprivation	Female
+1629	Burning feet		Male
+1629	Hanging by thumbs	Female
+1629	Whip			Female
+1629	Bound with ropes	Male
+1629	Sleep Deprivation	Female
+1629	Burning feet		Female
+1643	Hanging by thumbs	Male
+1647	Whip			Female
+1657	Bound with ropes	Female
+1643	Sleep Deprivation	Female
+1659	Burning feet		Female
+1659	Hanging by thumbs	Male
+1659	Whip			Female
+1635	Bound with ropes	Female
+1660	Sleep Deprivation	Female
+1660	Burning feet		Female
+1664	Hanging by thumbs	Female
+1665	Whip			Female
+1619	Bound with ropes	Female
+1629	Sleep Deprivation	Male
+1643	Burning feet		Female
+1649	Hanging by thumbs	Female
+1658	Sleep Deprivation	Male
+1660	Burning feet		Female
